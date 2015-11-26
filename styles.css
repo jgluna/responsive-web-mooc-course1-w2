@@ -1,7 +1,6 @@
 .header {
   /*Sets the font to the header*/
-  /*This open sans font is added in index.html line 5*/
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
   /*Sets the font color*/
   color: #008B8B;
   /*Aligns this text to center of the page*/
